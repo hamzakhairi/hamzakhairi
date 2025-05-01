@@ -1,3 +1,5 @@
+![My Logo](./header_1.png)
+
 # Hi, I'm Hamza 👋
 
 I'm a full-stack developer and cybersecurity enthusiast from Morocco 🇲🇦.
