@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hamza 👋
 
-<!--
-**hamzakhairi/hamzakhairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer and cybersecurity enthusiast from Morocco 🇲🇦.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- 🌐 Frontend: React, Next.js, Tailwind CSS
+- 🛠 Backend: Node.js, Express, MongoDB
+- 🐧 OS: Kali Linux, Arch (Hyprland)
+- 🔐 Cybersecurity: TryHackMe, Hack The Box
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzakhairi&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
