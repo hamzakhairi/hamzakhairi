@@ -1,4 +1,4 @@
-![My Logo](header_1.png)
+![My Logo](header.png)
 
 # Hi, I'm Hamza 👋
 
