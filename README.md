@@ -12,7 +12,7 @@ I'm a full-stack developer and cybersecurity enthusiast from Morocco 🇲🇦.
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzakhairi&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Email: 
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-profile)
+- Portfolio: [hamzakhairi.me](https://hamzakhairi.me)
 
